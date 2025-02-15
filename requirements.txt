@@ -1,0 +1,1 @@
+pip install yfinance pandas yahooquery yahoo_fin tenacity sqlalchemy azure-identity azure-storage-blob pyodbc apache-airflow
