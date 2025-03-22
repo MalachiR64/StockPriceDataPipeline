@@ -1,7 +1,7 @@
-# ELT Pipeline for Stocks
+# ETL Pipeline for Stocks
 
 ## Overview
-This project implements an ELT (Extract, Load, Transform) pipeline for stock market data, specifically focusing on S&P 500 companies. The pipeline extracts stock-related data, processes it, and loads it into a database for further analysis.
+This project implements an ETL (Extract, Transform, Load) pipeline for stock market data, specifically focusing on S&P 500 companies. The pipeline extracts stock-related data, processes it, and loads it into a database for further analysis.
 
 ## Table of Contents
 - [Features](#features)
